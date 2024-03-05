@@ -1,0 +1,5 @@
+pynetdicom 
+pyyaml 
+javabridge 
+httpx 
+requests
